@@ -2,9 +2,9 @@
 
 This utility patch will make your texture cover the entire rectangle, without any distortion. You can also set the pivot point to control the alignment of the texture. See the demo video for more information.
 
-[Demo on YouTube](https://youtu.be/)
+[Demo on YouTube](https://youtu.be/tX2uyytflM4)
 
-[![](./screenshot.jpg)](https://youtu.be/)
+[![](./screenshot.jpg)](https://youtu.be/tX2uyytflM4)
 
 
 ## Resources
