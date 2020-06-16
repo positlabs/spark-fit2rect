@@ -2,6 +2,8 @@
 
 This utility patch will make your texture cover the entire rectangle, without any distortion. You can also set the pivot point to control the alignment of the texture. See the demo video for more information.
 
+Update: there is now an option to contain the texture to the rect instead of filling
+
 [Demo on YouTube](https://youtu.be/tX2uyytflM4)
 
 [![](./screenshot.jpg)](https://youtu.be/tX2uyytflM4)
