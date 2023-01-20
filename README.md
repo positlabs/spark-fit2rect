@@ -6,7 +6,7 @@ Update: there is now an option to contain the texture to the rect instead of fil
 
 [Demo on YouTube](https://youtu.be/tX2uyytflM4)
 
-[![](./screenshot.jpg)](https://youtu.be/tX2uyytflM4)
+[![](./fit2rect.jpg)](https://youtu.be/tX2uyytflM4)
 
 
 ## Resources
